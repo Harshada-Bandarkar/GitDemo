@@ -39,12 +39,10 @@ public class LoginPageTest extends BaseTest{
 		
 	}
 	
-	
 	@Test
-	public void timepasstest()
+	public void dem()
 	{
-		
-		System.out.println("Hey It's Harshada");
-		
+		System.out.println("P:)");
+		System.out.println("bhag");
 	}
 }
