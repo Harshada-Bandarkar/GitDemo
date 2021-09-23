@@ -38,4 +38,13 @@ public class LoginPageTest extends BaseTest{
 		System.out.println(homepage.getHomePageTitle());
 		
 	}
+	
+	
+	@Test
+	public void timepasstest()
+	{
+		
+		System.out.println("Hey It's Harshada");
+		
+	}
 }
